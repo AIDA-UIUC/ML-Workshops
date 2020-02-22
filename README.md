@@ -1,4 +1,4 @@
-# SIGAI at ACM@UIUC: Basics in Machine Learning Tutorials
+# SIGAIDA at ACM@UIUC: Basics in Machine Learning Tutorials
 
 + Each tutorial contains a completed notebook and a partially created notebook containing the skeleton for the code.
 
